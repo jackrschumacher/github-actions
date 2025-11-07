@@ -28,7 +28,6 @@ Repos and Status
 
 |                          Repository                          |                            Status                            |
 | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| [UAH-IS-Notes](https://github.com/jackrschumacher/UAH-IS-Notes) | [![.github/workflows/publish.yml](https://github.com/jackrschumacher/UAH-IS-Notes/actions/workflows/publish.yml/badge.svg?branch=main)](https://github.com/jackrschumacher/UAH-IS-Notes/actions/workflows/publish.yml) |
 | [ASTRA-Notes](https://github.com/jackrschumacher/ASTRA-Notes) | [![.github/workflows/publish.yml](https://github.com/jackrschumacher/ASTRA-Notes/actions/workflows/publish.yml/badge.svg)](https://github.com/jackrschumacher/ASTRA-Notes/actions/workflows/publish.yml) |
 |  [UAH-Notes](https://github.com/jackrschumacher2/UAH-Notes)  | [![.github/workflows/publish.yml](https://github.com/jackrschumacher2/UAH-Notes/actions/workflows/publish.yml/badge.svg)](https://github.com/jackrschumacher2/UAH-Notes/actions/workflows/publish.yml) |
 
